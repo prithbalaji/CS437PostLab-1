@@ -11,7 +11,8 @@ Hint: https://github.com/raspberrypilearning/astro-pi-guide/blob/master/inputs-o
 
 # Video:
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtube.com/shorts/mbWw7b0WDww?feature=share "Now in Android: 55")
+(https://youtube.com/shorts/mbWw7b0WDww?feature=share)
+
 # Code is in Repo
 
 Post Lab Assignment-2 (3 points): While experimenting with the temperature sensor, you might have noticed that the readings from these sensors exhibit significant fluctuations when they are not rounded to the appropriate decimal places. How can you address this issue without using the rounding functions? Write a program that uses averaging to tackle this problem. Plot a graph for old temperature measurements w.r.t time along with the curated temperature measurements w.r.t time.  
