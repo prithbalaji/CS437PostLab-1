@@ -27,7 +27,7 @@ Post Lab Assignment-3 (4 points): Cameras are computationally intensive for Rasp
 
 # Video:
 
-(https://youtube.com/shorts/bJA8qBgPpkU?feature=share)
+[(https://youtube.com/shorts/bJA8qBgPpkU?feature=share)](https://youtube.com/shorts/1mSPOdKATaI?feature=share)
 
 # Code is in Repo
 
