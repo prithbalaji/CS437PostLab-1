@@ -19,13 +19,13 @@ Post Lab Assignment-2 (3 points): While experimenting with the temperature senso
 
 
 # Video:
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 # Code is in Repo
 
 Post Lab Assignment-3 (4 points): Cameras are computationally intensive for Raspberry Pis. To optimize their use and efficiency, let us explore a practical application by integrating it with other sensing modalities. Write a Python program that utilizes the Sense-Hat module to estimate the presence of a person based on changes in  the ambient temperature or humidty. The program should automatically initiate video recording when the temperature/humidity changes by 1 degree Celsius and perform face recognition. (You can create the temperature/humidity change by blowing onto the sensors.)
 
 # Video:
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+
 # Code is in Repo
 
 Extra Credit Postlab Assignment - Optional (4 points): Download another pre-trained model from Haarcascades link below and develop a new cool smart feature for your camera. https://github.com/kipr/opencv/tree/master/data/haarcascades 
