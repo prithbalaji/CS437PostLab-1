@@ -27,6 +27,8 @@ Post Lab Assignment-3 (4 points): Cameras are computationally intensive for Rasp
 
 # Video:
 
+(https://youtube.com/shorts/bJA8qBgPpkU?feature=share)
+
 # Code is in Repo
 
 Extra Credit Postlab Assignment - Optional (4 points): Download another pre-trained model from Haarcascades link below and develop a new cool smart feature for your camera. https://github.com/kipr/opencv/tree/master/data/haarcascades 
