@@ -19,6 +19,7 @@ Post Lab Assignment-2 (3 points): While experimenting with the temperature senso
 
 
 # Video:
+(https://youtube.com/shorts/7tBtKb6CE8Y?feature=share)
 
 # Code is in Repo
 
