@@ -10,17 +10,21 @@ Post Lab Assignment-1 (3 points):  Develop a program that enables the movement o
 Hint: https://github.com/raspberrypilearning/astro-pi-guide/blob/master/inputs-outputs/joystick.mdLinks to an external site.
 
 # Video:
+
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtube.com/shorts/mbWw7b0WDww?feature=share "Now in Android: 55")
 # Code is in Repo
 
 Post Lab Assignment-2 (3 points): While experimenting with the temperature sensor, you might have noticed that the readings from these sensors exhibit significant fluctuations when they are not rounded to the appropriate decimal places. How can you address this issue without using the rounding functions? Write a program that uses averaging to tackle this problem. Plot a graph for old temperature measurements w.r.t time along with the curated temperature measurements w.r.t time.  
 
 
 # Video:
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 # Code is in Repo
 
 Post Lab Assignment-3 (4 points): Cameras are computationally intensive for Raspberry Pis. To optimize their use and efficiency, let us explore a practical application by integrating it with other sensing modalities. Write a Python program that utilizes the Sense-Hat module to estimate the presence of a person based on changes in  the ambient temperature or humidty. The program should automatically initiate video recording when the temperature/humidity changes by 1 degree Celsius and perform face recognition. (You can create the temperature/humidity change by blowing onto the sensors.)
 
 # Video:
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 # Code is in Repo
 
 Extra Credit Postlab Assignment - Optional (4 points): Download another pre-trained model from Haarcascades link below and develop a new cool smart feature for your camera. https://github.com/kipr/opencv/tree/master/data/haarcascades 
