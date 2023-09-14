@@ -1,23 +1,48 @@
+from sense_hat import SenseHat
+from time import sleep
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 5
 
-temperature_readings = [25.3, 25.4, 25.1, 25.8, 26.2, 25.7, 26.0, 25.9, 25.5, 25.4]
-
-
+sense=SenseHat()
+blue= (0,0,255)
+yellow= (255,255,0)
+red=(255,0,0)
+q = 0
+normal = []
+avged = []
+temperature_readings = []
 averaged_readings = []
+for x in range(0,10):
+    
+    temperature=sense.get_temperature()
+    q += temperature
+    temperature_readings.append(temperature)
+    
+    r = str(temperature)
+    r = r[0:5]
+    print(r)
+    sleep(1)
+q/=10
+print(temperature_readings)
+
+
+
+
+N = 10
+
+
+
+
 
 
 for i in range(len(temperature_readings)):
-    if i < N:
-      
-        averaged_value = temperature_readings[i]
-    else:
+    averaged_value = np.mean(temperature_readings[0:i+1])
 
-        averaged_value = np.mean(temperature_readings[i - N : i + 1])
+        
     
     averaged_readings.append(averaged_value)
+print(averaged_readings)
 
 
 time = np.arange(len(temperature_readings))
@@ -34,4 +59,3 @@ plt.grid(True)
 
 
 plt.show()
-
