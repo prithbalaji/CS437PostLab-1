@@ -4,6 +4,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
+#How can you address this issue without using the rounding functions?
+
+#We can address this issue without using the rounding functions by taking the moving average filter.
+
+
 sense=SenseHat()
 blue= (0,0,255)
 yellow= (255,255,0)
